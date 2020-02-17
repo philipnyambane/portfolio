@@ -1,5 +1,4 @@
-# portifolio
-
+               
 ## Authors
 Philip
 
@@ -10,4 +9,4 @@ This is a portifolio about my bio.
 Launch using any browser.
 
 #### License
-Free product.
+Free product.p

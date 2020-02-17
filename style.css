@@ -9,4 +9,6 @@ p {
 }
 img {
     border: 1px solid grey;
+    -webkit-transform: rotate(90deg);
+    margin-bottom: 20px;
 }
