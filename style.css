@@ -9,4 +9,9 @@ p {
 }
 img {
     border: 1px solid grey;
+    -webkit-transform: rotate(90deg);
+
+}
+ul{
+    list-style-type: none;
 }
